@@ -1,0 +1,73 @@
+Minecraft
+|
+|
+├── file_structure.txt
+├── ingame.py
+├── __init__.py
+├── inventory
+│   ├── chop_items
+│   │   ├── chop_items.py
+│   │   └── woods.py
+│   ├── craft_items
+│   │   ├── craft_items.py
+│   │   └── recipes.py
+│   ├── eat_items
+│   │   ├── eat_items.py
+│   │   ├── food_items.py
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       ├── eat_items.cpython-311.pyc
+│   │       ├── food_items.cpython-311.pyc
+│   │       └── __init__.cpython-311.pyc
+│   ├── __init__.py
+│   ├── inventory.py
+│   ├── mine_items
+│   │   ├── __init__.py
+│   │   ├── netherworld
+│   │   │   ├── blocks.py
+│   │   │   ├── __init__.py
+│   │   │   ├── mine_items.py
+│   │   │   └── __pycache__
+│   │   │       └── blocks.cpython-311.pyc
+│   │   ├── overworld
+│   │   │   ├── blocks.py
+│   │   │   ├── __init__.py
+│   │   │   ├── mine_items.py
+│   │   │   └── __pycache__
+│   │   │       ├── blocks.cpython-311.pyc
+│   │   │       ├── __init__.cpython-311.pyc
+│   │   │       └── mine_items.cpython-311.pyc
+│   │   └── __pycache__
+│   │       └── __init__.cpython-311.pyc
+│   ├── __pycache__
+│   │   ├── __init__.cpython-311.pyc
+│   │   └── inventory.cpython-311.pyc
+│   └── store_items
+├── main_menu.py
+├── __pycache__
+│   ├── ingame1.cpython-311.pyc
+│   └── ingame.cpython-311.pyc
+├── saves
+└── worldexplore
+    ├── __init__.py
+    ├── netherworld
+    ├── overworld
+    │   ├── entities.py
+    │   ├── explore.py
+    │   ├── __init__.py
+    │   └── __pycache__
+    │       ├── explore.cpython-311.pyc
+    │       └── __init__.cpython-311.pyc
+    └── __pycache__
+        └── __init__.cpython-311.pyc
+
+
+
+
+
+
+
+
+
+
+
