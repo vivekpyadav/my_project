@@ -21,7 +21,7 @@ Welcome to the Minecraft CLI Game, a text-based adventure inspired by the popula
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/minecraft-cli-game.git
+    git clone https://github.com/vivekpyadav/my_project/tree/main/minecraft-cli-game
     cd minecraft-cli-game
     ```
 
